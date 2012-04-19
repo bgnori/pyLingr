@@ -1,7 +1,7 @@
 pylingr.py
 setup.py
-pyLingr.egg-info/.swp
 pyLingr.egg-info/PKG-INFO
 pyLingr.egg-info/SOURCES.txt
 pyLingr.egg-info/dependency_links.txt
+pyLingr.egg-info/not-zip-safe
 pyLingr.egg-info/top_level.txt
